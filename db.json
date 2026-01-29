@@ -37,63 +37,6 @@
       ],
       "created_at": "2025-06-24T17:14:03.002206",
       "updated_at": "2025-06-24T17:14:03.002209"
-    },
-    {
-      "_id": "696b16dd94749b39c2ae958e",
-      "title": "IndexedDB e o futuro dos protótipos viáveis #3",
-      "slug": "indexeddb-prototipos-3",
-      "teaser": "O IndexedDB está revolucionando os protótipos front-end.",
-      "short": "IndexedDB e browsers móveis ampliam as possibilidades para SPAs reais.",
-      "summary": "IndexedDB torna-se essencial para front-enders diante da popularização dos browsers móveis. Com apoio de servidores leves em PHP, NodeJS e Python, novos protótipos ganham força e realismo.",
-      "entry": "# IndexedDB e o futuro dos protótipos viáveis #3\n\nO aumento dos *aparelhos celulares* tornou acessível o **browser** para milhões de pessoas. A tecnologia `IndexedDB` deve servir aos *front-enders* para valorização no mercado de trabalho e criação de **protótipos viáveis** com foco em *retorno de investimento*.\n\nServidores como **PHP**, **NodeJS** e **Python** tornaram-se amigáveis aos testes de SPAs. Com pouco código backend, os protótipos se aproximam da realidade.\n\nO front-end expandiu suas capacidades, separando problemas com `CSS3 (@import)` e `ES6 modules`, adotando arquitetura `MVC` e criando SPAs com ideias inéditas.",
-      "author": "dda040919f3f7ae701de7a87",
-      "tags": [
-        "indexeddb",
-        "frontend",
-        "spa",
-        "mvc",
-        "prototipagem"
-      ],
-      "created_at": "2025-06-24T17:14:03.002219",
-      "updated_at": "2025-06-24T17:14:03.002222"
-    },
-    {
-      "_id": "8f4cf7d3a0e91395f1c402a2",
-      "title": "IndexedDB e o futuro dos protótipos viáveis #4",
-      "slug": "indexeddb-prototipos-4",
-      "teaser": "O IndexedDB está revolucionando os protótipos front-end.",
-      "short": "IndexedDB e browsers móveis ampliam as possibilidades para SPAs reais.",
-      "summary": "IndexedDB torna-se essencial para front-enders diante da popularização dos browsers móveis. Com apoio de servidores leves em PHP, NodeJS e Python, novos protótipos ganham força e realismo.",
-      "entry": "# IndexedDB e o futuro dos protótipos viáveis #4\n\nO aumento dos *aparelhos celulares* tornou acessível o **browser** para milhões de pessoas. A tecnologia `IndexedDB` deve servir aos *front-enders* para valorização no mercado de trabalho e criação de **protótipos viáveis** com foco em *retorno de investimento*.\n\nServidores como **PHP**, **NodeJS** e **Python** tornaram-se amigáveis aos testes de SPAs. Com pouco código backend, os protótipos se aproximam da realidade.\n\nO front-end expandiu suas capacidades, separando problemas com `CSS3 (@import)` e `ES6 modules`, adotando arquitetura `MVC` e criando SPAs com ideias inéditas.",
-      "author": "52e47ef432c765e61d06bd93",
-      "tags": [
-        "indexeddb",
-        "frontend",
-        "spa",
-        "mvc",
-        "prototipagem"
-      ],
-      "created_at": "2025-06-24T17:14:03.002236",
-      "updated_at": "2025-06-24T17:14:03.002240"
-    },
-    {
-      "_id": "0fc58d2dfe56c4c0b14421f5",
-      "title": "IndexedDB e o futuro dos protótipos viáveis #5",
-      "slug": "indexeddb-prototipos-5",
-      "teaser": "O IndexedDB está revolucionando os protótipos front-end.",
-      "short": "IndexedDB e browsers móveis ampliam as possibilidades para SPAs reais.",
-      "summary": "IndexedDB torna-se essencial para front-enders diante da popularização dos browsers móveis. Com apoio de servidores leves em PHP, NodeJS e Python, novos protótipos ganham força e realismo.",
-      "entry": "# IndexedDB e o futuro dos protótipos viáveis #5\n\nO aumento dos *aparelhos celulares* tornou acessível o **browser** para milhões de pessoas. A tecnologia `IndexedDB` deve servir aos *front-enders* para valorização no mercado de trabalho e criação de **protótipos viáveis** com foco em *retorno de investimento*.\n\nServidores como **PHP**, **NodeJS** e **Python** tornaram-se amigáveis aos testes de SPAs. Com pouco código backend, os protótipos se aproximam da realidade.\n\nO front-end expandiu suas capacidades, separando problemas com `CSS3 (@import)` e `ES6 modules`, adotando arquitetura `MVC` e criando SPAs com ideias inéditas.",
-      "author": "5cf66705e326aa99f2a2554a",
-      "tags": [
-        "indexeddb",
-        "frontend",
-        "spa",
-        "mvc",
-        "prototipagem"
-      ],
-      "created_at": "2025-06-24T17:14:03.002250",
-      "updated_at": "2025-06-24T17:14:03.002253"
     }
   ]
 }
